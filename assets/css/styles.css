@@ -2411,7 +2411,7 @@ nav { padding-left: 35px; padding-right: 35px; }
 
 .navbar-brand { font-family: 'Oswald', sans-serif; }
 
-.section { margin-right: auto; margin-left: auto; padding-top: 30px; padding-left: 35px; padding-right: 35px; }
+.section { margin-right: auto; margin-left: auto; padding-top: 30px; padding-left: 35px; padding-right: 35px; background-color: #ffffffde; }
 
 p { font-family: 'Roboto', sans-serif; font-size: 14px; }
 

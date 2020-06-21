@@ -1,0 +1,46 @@
+
+
+Physics, Chemistry, Discrete Mathematics
+Sociology,Numerical Methods of Computation,Probability and Random Process,
+Fuzzy Mathematics
+
+
+Basic Electrical and Electronics Engineering, Engineering Graphic,
+Basic Mechanical Engineering, Basic Civil Engineering, Welding Workshop
+
+
+English Communication and Technical Report Writing,Economics and Accountancy
+Intellectual Property Rights and Cyber Law,Environmental Science,
+
+Introduction to Computing , Object Oriented Programming in C++, Digital Systems, Data Structure and Algorithms,  Basic Graph Theory, Operating Systems, Computer Organization and Architecture, Principles of Programming Language,  Formal language and Automata Theory, Computer Graphics, Database Management Systems, Microprocessor and Microcontroller, Principles of Management, Signals and Systems,  Data Mining, Design and Analysis of Algorithms, Computer Networks, Modelling and Simulation, Natural Language Processing,  Cryptography and Information Security, Software Engineering, Web Technology, Mobile Computing, Seminar on Summer Training
+
+
+
+
+ Physics Lab, Chemistry Lab, Basic Electrical and Electronics Engineering Lab, Introduction to Computing Lab, Engineering Graphics Lab, Basic Electrical and Electronics Engineering-II Lab,Welding Workshop, Object Oriented Programming in C++ Lab, Digital Systems Lab, Data Structure and Algorithms Lab, Numerical Methods and Computation Lab, Operating Systems Lab, Principles of Programming Language Lab, Computer Graphics Lab, Database Management Systems Lab, Microprocessor and Microcontroller Lab,  Signals and Systems Lab, Data Mining Lab, Computer Networks Lab, Software Engineering Lab, Web Technology Lab.
+
+
+\begin{rSection}{Courses } 
+
+\begin{rSubsection}{Mathematics and Sciences}{} {}
+\item Physics, Chemistry, Discrete Mathematics, Numerical Methods of Computation, Probability and Random Process, Differential Equation, Linear Algebra, Fuzzy Mathematics.
+\end{rSubsection}
+
+\begin{rSubsection}{Computer Science }{} {}
+\item Introduction to Computing , Object Oriented Programming in C++, Digital Systems, Data Structure and Algorithms,  Basic Graph Theory, Operating Systems, Computer Organization and Architecture, Principles of Programming Language,  Formal language and Automata Theory, Computer Graphics, Database Management Systems, Microprocessor and Microcontroller, Principles of Management, Signals and Systems,  Data Mining, Design and Analysis of Algorithms, Computer Networks, Modelling and Simulation, Natural Language Processing,  Cryptography and Information Security, Software Engineering, Web Technology, Mobile Computing, Cloud Computing, Computer Systems, Theory of Computation, Machine Learning, Internet of Things, Data Management, Real Time Operating Systems, Evolutionary Computing, Data Analysis.
+\end{rSubsection}
+
+\begin{rSubsection}{Other Engineering Disciplines}{}{}
+\item Basic Electrical and Electronics Engineering, Engineering Graphic,
+Basic Mechanical Engineering, Basic Civil Engineering.
+\end{rSubsection}
+
+\begin{rSubsection}{Humanities}{} {}
+\item English Communication and Technical Report Writing,Economics and Accountancy Intellectual Property Rights and Cyber Law, Environmental Science, Sociology.
+\end{rSubsection}
+
+\begin{rSubsection}{Labs}{} {}
+\item  Physics Lab, Chemistry Lab, Basic Electrical and Electronics Engineering Lab, Introduction to Computing Lab, Engineering Graphics Lab, Basic Electrical and Electronics Engineering-II Lab, Welding Workshop, Object Oriented Programming in C++ Lab, Digital Systems Lab, Data Structure and Algorithms Lab, Numerical Methods and Computation Lab, Operating Systems Lab, Principles of Programming Language Lab, Computer Graphics Lab, Database Management Systems Lab, Microprocessor and Microcontroller Lab,  Signals and Systems Lab, Data Mining Lab, Computer Networks Lab, Software Engineering Lab, Web Technology Lab, Programming Lab, Computer Systems Lab, Cloud Computing Lab (Amazon Web Services), Machine Learning Lab, Data Management Lab, Data Analysis Lab.
+\end{rSubsection}
+
+\end{rSection}
