@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.15)  21 JUN 2020 13:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.15)  24 JUN 2020 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/cozek/Documents/wip site/cv/kaushik_resume.tex"
-(/Users/cozek/Documents/wip site/cv/kaushik_resume.tex
+**"/Users/cozek/Dropbox/wip site/cv/kaushik_resume.tex"
+(/Users/cozek/Dropbox/wip site/cv/kaushik_resume.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/Users/cozek/Documents/wip site/cv/resume.cls
+(/Users/cozek/Dropbox/wip site/cv/resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -100,7 +100,7 @@ Package ifluatex Info: LuaTeX not detected.
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (/usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex)) (/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (/Users/cozek/Documents/wip site/cv/kaushik_resume.aux)
+) (/Users/cozek/Dropbox/wip site/cv/kaushik_resume.aux)
 \openout1 = `kaushik_resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
@@ -201,34 +201,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 44.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 46.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 45.
+(Font)              <10.95> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 45.
+(Font)              <8> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 45.
+(Font)              <6> on input line 46.
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--55
+Underfull \hbox (badness 10000) in paragraph at lines 41--56
 
  []
 
 [1
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (/Users/cozek/Documents/wip site/cv/kaushik_resume.aux) ) 
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (/Users/cozek/Dropbox/wip site/cv/kaushik_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 3737 strings out of 492649
- 52903 string characters out of 6129622
+ 3736 strings out of 492649
+ 52858 string characters out of 6129622
  123430 words of memory out of 5000000
- 7580 multiletter control sequences out of 15000+600000
- 9352 words of font info for 33 fonts, out of 8000000 for 9000
+ 7579 multiletter control sequences out of 15000+600000
+ 9036 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,6n,25p,603b,280s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,6n,25p,601b,282s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "/Users/cozek/Documents/wip site/cv/kaushik_resume.pdf" (2 pages, 120160 bytes).
+Output written on "/Users/cozek/Dropbox/wip site/cv/kaushik_resume.pdf" (2 pages, 119741 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream

@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1592724778 "/Users/cozek/Documents/wip site/cv/kaushik_resume.tex" "/Users/cozek/Documents/wip site/cv/kaushik_resume.pdf" "kaushik_resume" 1592724844
-  "/Users/cozek/Documents/wip site/cv/kaushik_resume.aux" 1592724778 36 a908f41be9008374dc8ea0c07857a951 ""
-  "/Users/cozek/Documents/wip site/cv/kaushik_resume.tex" 1592724843 12326 914a5996d3aa8462df79dafef474422d ""
+["pdflatex"] 1592997902 "/Users/cozek/Dropbox/wip site/cv/kaushik_resume.tex" "/Users/cozek/Dropbox/wip site/cv/kaushik_resume.pdf" "kaushik_resume" 1592997957
+  "/Users/cozek/Dropbox/wip site/cv/kaushik_resume.aux" 1592997902 36 a908f41be9008374dc8ea0c07857a951 ""
+  "/Users/cozek/Dropbox/wip site/cv/kaushik_resume.tex" 1592997956 12322 6091c87ead125e476d7d30f00851f8f2 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1480098667 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -64,12 +64,14 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1552674314 4220280 e34905ef2fbd9a9ab08529a9a021c5e0 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "kaushik_resume.aux" 1592724778 36 a908f41be9008374dc8ea0c07857a951 ""
-  "kaushik_resume.tex" 1592724843 12326 914a5996d3aa8462df79dafef474422d ""
+  "kaushik_resume.aux" 1592997902 36 a908f41be9008374dc8ea0c07857a951 ""
+  "kaushik_resume.tex" 1592997956 12322 6091c87ead125e476d7d30f00851f8f2 ""
   "resume.cls" 1592695988 4801 de8d7148e56ca9a66ffde988e8931012 ""
   (generated)
-  "kaushik_resume.aux"
-  "kaushik_resume.pdf"
-  "/Users/cozek/Documents/wip site/cv/kaushik_resume.log"
-  "kaushik_resume.log"
+  "/Users/cozek/Dropbox/wip site/cv/kaushik_resume.pdf"
   "/Users/cozek/Documents/wip site/cv/kaushik_resume.pdf"
+  "kaushik_resume.aux"
+  "/Users/cozek/Documents/wip site/cv/kaushik_resume.log"
+  "kaushik_resume.pdf"
+  "kaushik_resume.log"
+  "/Users/cozek/Dropbox/wip site/cv/kaushik_resume.log"

@@ -1,11 +1,11 @@
-PWD /Users/cozek/Documents/wip site/cv
+PWD /Users/cozek/Dropbox/wip site/cv
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/cozek/Documents/wip site/cv/kaushik_resume.tex
-OUTPUT /Users/cozek/Documents/wip site/cv/kaushik_resume.log
-INPUT /Users/cozek/Documents/wip site/cv/resume.cls
-INPUT /Users/cozek/Documents/wip site/cv/resume.cls
+INPUT /Users/cozek/Dropbox/wip site/cv/kaushik_resume.tex
+OUTPUT /Users/cozek/Dropbox/wip site/cv/kaushik_resume.log
+INPUT /Users/cozek/Dropbox/wip site/cv/resume.cls
+INPUT /Users/cozek/Dropbox/wip site/cv/resume.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size11.clo
@@ -52,9 +52,9 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/fontawesomesymbol
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
-INPUT /Users/cozek/Documents/wip site/cv/kaushik_resume.aux
-INPUT /Users/cozek/Documents/wip site/cv/kaushik_resume.aux
-OUTPUT /Users/cozek/Documents/wip site/cv/kaushik_resume.aux
+INPUT /Users/cozek/Dropbox/wip site/cv/kaushik_resume.aux
+INPUT /Users/cozek/Dropbox/wip site/cv/kaushik_resume.aux
+OUTPUT /Users/cozek/Dropbox/wip site/cv/kaushik_resume.aux
 INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -83,7 +83,6 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
@@ -97,9 +96,9 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
-OUTPUT /Users/cozek/Documents/wip site/cv/kaushik_resume.pdf
+OUTPUT /Users/cozek/Dropbox/wip site/cv/kaushik_resume.pdf
 INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /Users/cozek/Documents/wip site/cv/kaushik_resume.aux
+INPUT /Users/cozek/Dropbox/wip site/cv/kaushik_resume.aux
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
