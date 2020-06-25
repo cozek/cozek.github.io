@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/blog.html</loc>
+<loc>http://localhost:4000/blog.html</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>/publications.html</loc>
+<loc>http://localhost:4000/publications.html</loc>
 </url>
 <url>
-<loc>/cv/Resume.pdf</loc>
+<loc>http://localhost:4000/cv/Resume.pdf</loc>
 <lastmod>2020-06-21T12:00:50+05:30</lastmod>
 </url>
 <url>
-<loc>/cv/kaushik_resume.pdf</loc>
-<lastmod>2020-06-24T16:55:02+05:30</lastmod>
+<loc>http://localhost:4000/cv/kaushik_resume.pdf</loc>
+<lastmod>2020-06-25T10:24:18+05:30</lastmod>
 </url>
 </urlset>
