@@ -5,3 +5,5 @@
 *.fdb_latexmk
 *.log
 *.DS_Store
+*.tex
+*.bib
